@@ -1,0 +1,11 @@
+{
+  "name": "vue-basic-component",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:innerWang/vue-basic-component.git",
+  "author": "<52886377@qq.com>",
+  "license": "MIT",
+  "dependencies": {
+    "vue": "^2.6.10"
+  }
+}
